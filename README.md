@@ -4,4 +4,3 @@
 - 👀 I am interested in Machine Learning, Computer Vision, Data Visualization and applying my Mathematical skills to the relevant domain.
 - 🌱 I’m currently learning Computer Vision.
 - 📫 How to reach me: ... suchetajjw47@gmail.com
--->
